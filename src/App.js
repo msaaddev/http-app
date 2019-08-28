@@ -6,6 +6,7 @@ class App extends Component {
     posts: []
   };
 
+    console.log(promise);
   handleAdd = () => {
     console.log("Add");
   };
